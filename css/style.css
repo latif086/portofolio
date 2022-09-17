@@ -641,8 +641,8 @@ pre code {
     width: 400px;
     height: 400px;
   }
-
 }
+
 
 .row {
   display: flex;
@@ -1222,6 +1222,14 @@ pre code {
     padding-left: auto;
   }
 }
+@media (max-width: 400px){
+  .profilepic {
+    width: 200px;
+    height: 200px;
+  }
+}
+  
+  
 
 @media (min-width: 992px) {
   .col-lg {
