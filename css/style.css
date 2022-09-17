@@ -429,6 +429,12 @@ h6, .h6 {
   font-weight: 300;
   line-height: 1.2;
 }
+@media (max-width: 600px){
+  .profilepic {
+    width: 400px;
+    height: 400px;
+  }
+}
 
 @media (max-width: 1200px) {
   .display-1 {
