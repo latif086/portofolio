@@ -636,6 +636,13 @@ pre code {
     max-width: 1140px;
   }
 }
+@media (max-width: 600px){
+  .profilepic {
+    width: 400px;
+    height: 400px;
+  }
+
+}
 
 .row {
   display: flex;
